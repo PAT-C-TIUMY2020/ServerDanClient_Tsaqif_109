@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Tsaqif_109", "Server_Tsaqif_109\Server_Tsaqif_109.csproj", "{3271CD6D-7DAD-4400-A199-3B22BAB866DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Tsaqif_109", "Client_Tsaqif_109\Client_Tsaqif_109.csproj", "{4AC48FF2-F189-47F0-87B1-E09A297AC4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3271CD6D-7DAD-4400-A199-3B22BAB866DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3271CD6D-7DAD-4400-A199-3B22BAB866DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3271CD6D-7DAD-4400-A199-3B22BAB866DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3271CD6D-7DAD-4400-A199-3B22BAB866DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC48FF2-F189-47F0-87B1-E09A297AC4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC48FF2-F189-47F0-87B1-E09A297AC4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC48FF2-F189-47F0-87B1-E09A297AC4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC48FF2-F189-47F0-87B1-E09A297AC4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5791B55E-C1C3-43A5-8C63-7912AA41E26F}
+	EndGlobalSection
+EndGlobal
